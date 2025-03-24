@@ -1,1 +1,1 @@
-"# Souptik-123-Neural-Network-from-scratch" 
+This project implements a fully connected neural network from scratch using only NumPy library and the math—without relying on deep learning frameworks like TensorFlow or PyTorch. The model consists of an input layer, a single hidden layer with activation functions, and an output layer for classification. The network is trained on the MNIST dataset to classify handwritten digits (0-9) and achieves 90% accuracy through careful weight initialization, activation functions, and gradient-based optimization
